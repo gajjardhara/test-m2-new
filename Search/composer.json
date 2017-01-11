@@ -1,5 +1,5 @@
 {
-    "name": "testk/module-productsearch",
+    "name": "testnewk/module-productsearch",
     "description": "Search that learns, generates sales. Fastest, most advanced cloud-based search, autocomplete, instant search",
     "require": {
 		"php": "~5.5.0|~5.6.0|~7.0.0",

@@ -2,7 +2,7 @@
   "name": "testknew/module-search",
   "description": "Search data that learns, generates sales. Fastest, most advanced cloud-based search, autocomplete, instant search",
   "type": "metapackage",
-  "version": "2.0.11",
+  "version": "2.0.12",
   "require": {
     "php": "~5.5.0|~5.6.0|~7.0.0",
     "testnewk/module-productsearch": "2.0.10",

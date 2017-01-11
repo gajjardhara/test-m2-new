@@ -1,6 +1,6 @@
 {
   "name": "testknew/module-search",
-  "description": "Search that learns, generates sales. Fastest, most advanced cloud-based search, autocomplete, instant search",
+  "description": "Search data that learns, generates sales. Fastest, most advanced cloud-based search, autocomplete, instant search",
   "type": "metapackage",
   "version": "2.0.10",
   "require": {

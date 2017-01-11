@@ -5,9 +5,9 @@
   "version": "2.0.11",
   "require": {
     "php": "~5.5.0|~5.6.0|~7.0.0",
-    "testk/module-productsearch": "*",
-    "testk/module-content": "*",
-    "testk/module-addtocart": "*"
+    "testk/module-productsearch": "2.0.10",
+    "testk/module-content": "2.0.10",
+    "testk/module-addtocart": "2.0.10"
   },
   "license": [
     "OSL-3.0",
